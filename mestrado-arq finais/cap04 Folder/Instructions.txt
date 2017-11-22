@@ -1,0 +1,106 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: dissertacao-mestrado.indb
+Pagination Options : Continue from Previous Document
+
+Number of Documents :1
+
+PACKAGE DATE: 21/08/2011 18:35
+Creation Date: 
+Modification Date: 21/08/2011
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 0
+Non Opaque Objects :None
+
+FONTS
+13 Fonts Used; 0 Missing, 8 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldItalicMT; Type: OpenType TrueType, Status: OK
+- Name: Arial-BoldMT; Type: OpenType TrueType, Status: OK
+- Name: Arial-ItalicMT; Type: OpenType TrueType, Status: OK
+- Name: ArialMT; Type: OpenType TrueType, Status: OK
+- Name: Arnhem-Black; Type: Type 1, Status: Embedded
+- Name: Arnhem-Blond; Type: Type 1, Status: Embedded
+- Name: Arnhem-BlondItalic; Type: Type 1, Status: Embedded
+- Name: Flama-Bold; Type: Type 1, Status: Embedded
+- Name: Flama-Book; Type: Type 1, Status: Embedded
+- Name: Flama-BookItalic; Type: Type 1, Status: Embedded
+- Name: FoundryGridnik-Regular; Type: Type 1, Status: Embedded
+- Name: Klavika-Bold; Type: Type 1, Status: Embedded
+- Name: MyriadPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLOURS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Magenta; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Yellow; Angle: 0,000; Lines/Inch: 0,000
+- Name and Type: Process Black; Angle: 0,000; Lines/Inch: 0,000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 1 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 3 Embedded, 3 use RGB colour space
+
+- Name: (Embedded); Type:  RGB; Status: Embedded
+- Name: (Embedded); Type:  RGB; Status: Embedded
+- Name: (Embedded); Type:  RGB; Status: Embedded
+
+PRINT SETTINGS
+PPD: N/A, (Microsoft XPS Document Writer)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Upper Left
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 mm, 0 mm, 0 mm, 0 mm
+Colour: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimised Subsampling
+OPI/DCS Image Replacement: No
+Page Size: A4
+Paper Dimensions: 215,9 mm x 279,4 mm
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. dissertacao-mestrado.indb; type: Adobe InDesign publication; size: 64K
+2. cap03.indd; 3068K
+3. arialbi.ttf; type: Font file; size: 548K
+4. arialbd.ttf; type: Font file; size: 731K
+5. ariali.ttf; type: Font file; size: 542K
+6. arial.ttf; type: Font file; size: 760K
+7. MyriadPro-Regular.otf; type: Font file; size: 92K

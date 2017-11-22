@@ -1,0 +1,189 @@
+%!Adobe-FontList 1.13
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ArialMT
+FamilyName:Arial
+StyleName:Regular
+FullName:Arial
+MenuName:Arial
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\arial.ttf
+DataFormat:sfntData
+FileLength:778552
+FileModTime:1305066845
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-BoldMT
+FamilyName:Arial
+StyleName:Bold
+FullName:Arial Bold
+MenuName:Arial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\arialbd.ttf
+DataFormat:sfntData
+FileLength:749004
+FileModTime:1295217124
+WeightClass:700
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Arial-ItalicMT
+FamilyName:Arial
+StyleName:Italic
+FullName:Arial Italic
+MenuName:Arial
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\ariali.ttf
+DataFormat:sfntData
+FileLength:555884
+FileModTime:1295217124
+WeightClass:400
+WidthClass:5
+AngleClass:1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Calibri
+FamilyName:Calibri
+StyleName:Regular
+FullName:Calibri
+MenuName:Calibri
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\CALIBRI.TTF
+DataFormat:sfntData
+FileLength:811052
+FileModTime:1244666594
+WeightClass:400
+WidthClass:5
+AngleClass:0
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Bold
+FamilyName:Minion Pro
+StyleName:Bold
+FullName:Minion Pro Bold
+MenuName:Minion Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\MINIONPRO-BOLD.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:234868
+FileModTime:1188223711
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-CnCapt
+FamilyName:Minion Pro
+StyleName:Cond Caption
+FullName:Minion Pro Cond Caption
+MenuName:Minion Pro Cond Capt
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\MINIONPRO-CNCAPT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:234688
+FileModTime:1188223712
+WeightClass:400
+WidthClass:3
+AngleClass:0
+DesignSize:80
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+FullName:Minion Pro Italic
+MenuName:Minion Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\MINIONPRO-IT.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:280924
+FileModTime:1188223714
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\MINIONPRO-REGULAR.OTF
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:235436
+FileModTime:1188223717
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Users\thiago\mestrado-arq finais\cap01 Folder\Document fonts\MyriadPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:94360
+FileModTime:1265298434
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+%EndFont
+
